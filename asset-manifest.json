@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/.github.io/My_portfolio/static/css/main.6d90615d.css",
+    "main.js": "/.github.io/My_portfolio/static/js/main.cdb4d83b.js",
+    "static/media/Carental.png": "/.github.io/My_portfolio/static/media/Carental.8f61d6058888064c6660.png",
+    "static/media/NodeFarm.png": "/.github.io/My_portfolio/static/media/NodeFarm.641d1a642b1f337b1121.png",
+    "static/media/BlogApp.png": "/.github.io/My_portfolio/static/media/BlogApp.7ce8047dbaf8e1c57107.png",
+    "static/media/pngwing.com.png": "/.github.io/My_portfolio/static/media/pngwing.com.b59deec830f215d303b4.png",
+    "static/media/suhaitss.png": "/.github.io/My_portfolio/static/media/suhaitss.4be891d5ed4f6957d3f5.png",
+    "static/media/onlineBlodbak.jpeg": "/.github.io/My_portfolio/static/media/onlineBlodbak.ee3f610e70ca84061b6d.jpeg",
+    "static/media/workImg.jpeg": "/.github.io/My_portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/ReactQuiz.png": "/.github.io/My_portfolio/static/media/ReactQuiz.6930c74f1d66f4ca0023.png",
+    "static/media/react.png": "/.github.io/My_portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/.github.io/My_portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/.github.io/My_portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/.github.io/My_portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/.github.io/My_portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/.github.io/My_portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/.github.io/My_portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/.github.io/My_portfolio/index.html",
+    "main.6d90615d.css.map": "/.github.io/My_portfolio/static/css/main.6d90615d.css.map",
+    "main.cdb4d83b.js.map": "/.github.io/My_portfolio/static/js/main.cdb4d83b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d90615d.css",
+    "static/js/main.cdb4d83b.js"
+  ]
+}
